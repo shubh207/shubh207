@@ -1,7 +1,7 @@
 
 <h1 align="center">Yo ✌️, I'm ShubhanK</h1>
 <h3 align="center">A budding developer keen to learn</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=5h0bh4nk&label=Profile%20views&color=0e75b6&style=flat" alt="Shubhank" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shubh207&label=Profile%20views&color=0e75b6&style=flat" alt="Shubhank" /> </p>
 
 <p align="center">
 <a href="https://www.facebook.com/shubhank.kulshreshtha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubhank" height="30" width="40" /></a>
@@ -16,11 +16,11 @@
 <h2 align="center">My work is mostly realted to Cyber-Security and Web-Development</h2>
 <h2 align="center"> 👨‍💻  Check out my repos to view some of my work   👨‍💻</h2> -->
 <!-- <p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=5h0bh4nk&show_icons=true&count_private=true" alt="ShubhanK" ">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=shubh207&show_icons=true&count_private=true" alt="ShubhanK" ">
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=5h0bh4nk">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=shubh207">
 </p>
 <br>
  -->
@@ -42,23 +42,23 @@
                                                                                         
 ### ⚡ Github Stats
  <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=5h0bh4nk&theme=darkhub">
+<img src="https://github-profile-trophy.vercel.app/?username=shubh207&theme=darkhub">
 <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=5h0bh4nk&theme=merko">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh207&theme=merko">
 </p>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=5h0bh4nk&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5h0bh4nk&theme=radical&layout=compact&hide=Jupyter%20Notebook&langs_count=8"  display=block height=190 align="center" alt="2"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=shubh207&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh207&theme=radical&layout=compact&hide=Jupyter%20Notebook&langs_count=8"  display=block height=190 align="center" alt="2"></td>
    </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5h0bh4nk&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubh207&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
    </tr>
    <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=5h0bh4nk&bg_color=073642&color=859900&line=006400&point=35aea1&area=true" display=block width=100% height=auto alt="2"></td>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=shubh207&bg_color=073642&color=859900&line=006400&point=35aea1&area=true" display=block width=100% height=auto alt="2"></td>
   </td>
   </tr>
 </table>
